@@ -1,11 +1,17 @@
- Python Practice
+ Python Practice 🐍
 
-This repository contains my Python basics and data analysis practice.
-Used for building strong fundamentals for Data Engineering.
+This repository contains my Python basics and hands-on practice using Jupyter Notebooks.
 
- Topics
+ Topics Covered
 - Python Basics
+- Loops
+- Strings
+- Lists & Tuples
 - Functions
-- File Handling
-- loop
-- lambda function , etc
+- Lambda Functions
+
+ Tools Used
+- Python
+- Jupyter Notebook
+
+This repo is part of my preparation for Data Engineering.
